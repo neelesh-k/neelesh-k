@@ -4,7 +4,7 @@
 - 📫 Reach out to me on [LinkedIn](hhttps://www.linkedin.com/in/neelesh-k/)
 
 ## What do I know? 📜
-<img src="assets/img/68747470733a2f2f6d616861762e6465762f6173736574732f696d672f67682d70726f66696c652f736b696c6c732e6a7067.jpeg" />&nbsp; 
+<img src="https://github.com/neelesh-karthikeyan/neelesh.github.io/blob/master/assets/img/68747470733a2f2f6d616861762e6465762f6173736574732f696d672f67682d70726f66696c652f736b696c6c732e6a7067.jpeg" />&nbsp; 
 
 <h2 align="center"></h2>
  <!-- footer --!>
