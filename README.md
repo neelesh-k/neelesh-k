@@ -31,12 +31,12 @@
 </p>
 
 <!-- <p align="center"> -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neelesh-karthikeyan)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neelesh-karthikeyan)](https://git.io/streak-stats)
 <!-- </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelesh-karthikeyan&layout=compact)](https://github.com/neelesh-karthikeyan/github-readme-stats" />
-</p>
+</p> -->
 
 <h2 align="center"></h2>
  <!-- footer --!>
