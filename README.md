@@ -30,7 +30,7 @@
 
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neelesh-karthikeyan)](https://git.io/streak-stats)
+<h1 align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neelesh-karthikeyan)](https://git.io/streak-stats)</h1>
 
 <h2 align="center"></h2>
  <!-- footer --!>
