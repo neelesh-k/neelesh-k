@@ -31,7 +31,10 @@
 </p>
 
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neelesh-karthikeyan)](https://git.io/streak-stats)
+  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neelesh-karthikeyan)](https://git.io/streak-stats" />
+  
+<!-- [![GitHub Streak]()](https://git.io/streak-stats) -->
 </p>
 
 <p align="center">
