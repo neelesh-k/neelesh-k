@@ -1,8 +1,8 @@
 <h1 align="center"><img src="https://i.imgur.com/z3ox7v5.gif"/></h1>
 
-- 💻 Data Scientist with 2+ years of experience
+- 💻 Data Scientist with 2+ years of experience.
 - 💬 Ask me about Statistics, Deep Learning and Analytics.
-- 📫 Reach out to me on [LinkedIn](hhttps://www.linkedin.com/in/neelesh-k/)
+- 📫 Reach out to me on [LinkedIn](hhttps://www.linkedin.com/in/neelesh-k/).
 
 ## 🛠️ My tools
 
