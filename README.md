@@ -30,7 +30,13 @@
 
 </p>
 
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neelesh-karthikeyan)](https://git.io/streak-stats)
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruch798&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</p>
 
 <h2 align="center"></h2>
  <!-- footer --!>
