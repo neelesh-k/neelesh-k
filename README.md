@@ -1,5 +1,7 @@
 <h1 align="center"><img src="https://i.imgur.com/z3ox7v5.gif"/></h1>
 
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 - 💻 Data Scientist with 2+ years of experience.
 - 💬 Ask me about Statistics, Deep Learning and Analytics.
 - 📫 Reach out to me on [LinkedIn](hhttps://www.linkedin.com/in/neelesh-k/).
