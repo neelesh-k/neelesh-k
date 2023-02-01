@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.imgur.com/z3ox7v5.gif"/></h1>
+<!-- <h1 align="center"><img src="https://i.imgur.com/z3ox7v5.gif"/></h1> -->
 
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
